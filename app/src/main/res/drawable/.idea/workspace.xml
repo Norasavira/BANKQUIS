@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06fa4798-3ab4-4460-94e0-3383ec1781fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../java/com/example/bankquis/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/example/bankquis/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/example/bankquis/MainActivity2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/example/bankquis/MainActivity2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/example/bankquis/MainActivity3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/example/bankquis/MainActivity3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_halamanutama.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_halamanutama.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_hasil_kuis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_hasil_kuis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_hasil_kuis2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_hasil_kuis2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_hasil_kuis3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_hasil_kuis3.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1p9oop0iNqasJDapfEDBhclIsyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06fa4798-3ab4-4460-94e0-3383ec1781fa" name="Default Changelist" comment="" />
+      <created>1614604844732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614604844732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614605153035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614605153035" />
+  </component>
+</project>
