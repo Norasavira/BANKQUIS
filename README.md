@@ -1,10 +1,12 @@
 # BANKQUIS
-NAMA :NORA SAVIRA
-NIM :2019302031
-KELAS : 2 IT A
-![save](https://user-images.githubusercontent.com/78533722/109532289-8c9dff00-7aeb-11eb-9724-36cbd7805657.jpg)
-![njhbcg](https://user-images.githubusercontent.com/78533722/109532321-932c7680-7aeb-11eb-9290-c24caedc751b.jpg)
-![swswa](https://user-images.githubusercontent.com/78533722/109532336-97f12a80-7aeb-11eb-9cd4-ed0ee6d80341.jpg)
-![ws](https://user-images.githubusercontent.com/78533722/109532352-9d4e7500-7aeb-11eb-91d7-a15ce4b8dad3.jpg)
-![warna](https://user-images.githubusercontent.com/78533722/109532355-9de70b80-7aeb-11eb-9717-77fc82af8540.png)
-![sbsnsbsnsn](https://user-images.githubusercontent.com/78533722/109532361-a0496580-7aeb-11eb-86b4-6757a0b65511.jpg)
+NAMA :NORA SAVIRA < br/>
+NIM :2019302031<br/>
+KELAS : 2 IT A</br>
+
+![sbsnsbsnsn](https://user-images.githubusercontent.com/78533722/109533064-64fb6680-7aec-11eb-93dd-69b53e7d885b.jpg)
+![swswa](https://user-images.githubusercontent.com/78533722/109533236-95430500-7aec-11eb-9a29-c554d605883c.jpg)
+![njhbcg](https://user-images.githubusercontent.com/78533722/109533280-9ffd9a00-7aec-11eb-8ca5-ce69799be00b.jpg)
+
+![ws](https://user-images.githubusercontent.com/78533722/109533203-8d836080-7aec-11eb-8e94-6a9620433e39.jpg)
+
+![save](https://user-images.githubusercontent.com/78533722/109533153-7e041780-7aec-11eb-93a2-9d218933a4fe.jpg)
